@@ -12,6 +12,7 @@
   },
   "devDependencies": {
     "@types/mocha": "^5.2.5",
+    "@types/tempy": "^0.2.0",
     "chai": "^4.2.0",
     "mocha": "^5.2.0",
     "typescript": "^3.1.6",
@@ -34,6 +35,7 @@
   "homepage": "https://github.com/NuKeeperDotNet/NuKeeperAzureDevOps#readme",
   "dependencies": {
     "@types/mz": "0.0.32",
-    "mz": "^2.7.0"
+    "mz": "^2.7.0",
+    "tempy": "^0.2.1"
   }
 }
