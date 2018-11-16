@@ -4,7 +4,7 @@
     "name": "nukeeper",
     "version": "0.1.0",
     "publisher": "nukeeper",
-    "public": true,
+    "public": false,
     "targets": [
         {
             "id": "Microsoft.VisualStudio.Services"

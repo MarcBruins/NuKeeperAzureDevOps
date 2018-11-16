@@ -14,7 +14,8 @@
     "@types/mocha": "^5.2.5",
     "chai": "^4.2.0",
     "mocha": "^5.2.0",
-    "typescript": "^3.1.6"
+    "typescript": "^3.1.6",
+    "vsts-task-tool-lib": "^0.10.0"
   },
   "repository": {
     "type": "git",
@@ -30,5 +31,9 @@
   "bugs": {
     "url": "https://github.com/NuKeeperDotNet/NuKeeperAzureDevOps/issues"
   },
-  "homepage": "https://github.com/NuKeeperDotNet/NuKeeperAzureDevOps#readme"
+  "homepage": "https://github.com/NuKeeperDotNet/NuKeeperAzureDevOps#readme",
+  "dependencies": {
+    "@types/mz": "0.0.32",
+    "mz": "^2.7.0"
+  }
 }
