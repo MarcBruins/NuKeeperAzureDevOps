@@ -12,11 +12,13 @@
   },
   "devDependencies": {
     "@types/mocha": "^5.2.5",
-    "@types/tempy": "^0.2.0",
     "chai": "^4.2.0",
+    "@types/mz": "0.0.32",
     "mocha": "^5.2.0",
+    "rmdir": "^1.2.0",
     "typescript": "^3.1.6",
-    "vsts-task-tool-lib": "^0.10.0"
+    "@types/sinon": "^5.0.5",
+    "sinon": "^7.1.1"
   },
   "repository": {
     "type": "git",
@@ -34,10 +36,7 @@
   },
   "homepage": "https://github.com/NuKeeperDotNet/NuKeeperAzureDevOps#readme",
   "dependencies": {
-    "@types/mz": "0.0.32",
-    "@types/sinon": "^5.0.5",
     "mz": "^2.7.0",
-    "sinon": "^7.1.1",
-    "tempy": "^0.2.1"
+    "vsts-task-tool-lib": "^0.10.0"
   }
 }
